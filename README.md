@@ -1,3 +1,4 @@
 # test
 prueba
-Haciendo commit desde FireFox
+1.-Commit uno desde Terminal
+2.-Haciendo commit desde FireFox
