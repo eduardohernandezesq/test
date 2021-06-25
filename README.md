@@ -12,4 +12,5 @@ A continuaci\'on se listan los pasos para hacer commit
  4. git push
  5. git pull
 
+Otra forma
  
