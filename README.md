@@ -13,4 +13,6 @@ A continuaci\'on se listan los pasos para hacer commit
  5. git pull
 
 Otra forma
- 
+ 1. nano README.md
+ 2. git commit -a
+  
