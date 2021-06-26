@@ -14,7 +14,7 @@ A continuaci\'on se listan los pasos para hacer commit
 
 Otra forma
  1. nano README.md
- 2. git commit -a "nombre del commit"
+ 2. git commit -a 
  3. git push
   
 Ahora commit con Visual Studio Code 
