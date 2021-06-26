@@ -8,13 +8,13 @@ prueba
 A continuaci\'on se listan los pasos para hacer commit
  1. nano README.md
  2. git add .
- 3. git commit -m
+ 3. git commit -m "nombre del commit"
  4. git push
  5. git pull
 
 Otra forma
  1. nano README.md
- 2. git commit -a
+ 2. git commit -a "nombre del commit"
  3. git push
   
 Ahora commit con Visual Studio Code 
