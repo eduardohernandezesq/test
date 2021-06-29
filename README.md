@@ -18,3 +18,6 @@ Otra forma
  3. git push
   
 Ahora commit con Visual Studio Code 
+
+Probando con GitHub Desktop
+
