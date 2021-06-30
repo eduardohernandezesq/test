@@ -22,5 +22,7 @@ Ahora commit con Visual Studio Code
 2. Hacer click en la "paloma" que indica commit
 3. En la barra messages, escribir el nombre del commit
 4. Hacer click en el boton "..." y hacer push
+
 Probando con GitHub Desktop
+1. Hacer el cambio desde el editor de texto
 
