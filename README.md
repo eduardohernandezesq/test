@@ -25,4 +25,5 @@ Ahora commit con Visual Studio Code
 
 Probando con GitHub Desktop
 1. Hacer el cambio desde el editor de texto
-
+2. En GitHub Desktop hacer click en "commit to main"
+3. Click en "Push to origin"
