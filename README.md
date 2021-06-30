@@ -21,5 +21,6 @@ Ahora commit con Visual Studio Code
 1. Ir a Source control
 2. Hacer click en la "paloma" que indica commit
 3. En la barra messages, escribir el nombre del commit
+4. Hacer click en el boton "..." y hacer pull
 Probando con GitHub Desktop
 
