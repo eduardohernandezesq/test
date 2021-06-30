@@ -18,6 +18,7 @@ Otra forma
  3. git push
   
 Ahora commit con Visual Studio Code 
-
+1. Ir a Source control
+2. Hacer click en la "paloma" que indica commit
 Probando con GitHub Desktop
 
